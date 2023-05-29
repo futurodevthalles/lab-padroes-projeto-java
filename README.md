@@ -1,5 +1,3 @@
-Claro! Desculpe pela resposta anterior incompleta. Aqui está a descrição completa, de forma mais concisa:
-
 "Repositório do Projeto: Explorando Padrões de Projetos na Prática com Java"
 
 Neste projeto, implementei os padrões de projeto Singleton, Strategy e Facade em Java puro para aprofundar meu conhecimento prático sobre esses padrões e sua aplicação em cenários reais.
